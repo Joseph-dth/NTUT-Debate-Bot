@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Joseph Shi",
+  "license": "MIT",
+  "dependencies": {
+    "bottender": "^0.15.17",
+    "dotenv": "^6.2.0",
+    "lodash": "^4.17.15",
+    "query-string": "^6.10.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
